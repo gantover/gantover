@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gantover
 - 📚 Currently studying civil engineering at ULB
-- 🕹️ Learning ["2D video games", "websites"] on udemy
+- 🕹️ Learning ```["2D video games", "websites"]``` online
 - 💞️ I’m looking to make an interactive math, physics learning platform
 - 📫 How to reach me : school_email = "damian.hubert@ulb.be"
 
