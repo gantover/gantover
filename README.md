@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gantover
 - 📚 Currently studying civil engineering at ULB
-- 🕹️ Learning ```["rust", "git", ]``` online
-- 📚 Learnt ```["python"]```
+- 🕹️ Learning ```["rust", "git", "maths", "python"]``` online
 - 💞️ I’m looking to make an interactive math, physics learning platform
 - 📫 How to reach me : school_email = "damian.hubert@ulb.be"
 
