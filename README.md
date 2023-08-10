@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @gantover
-- 📚 Currently studying civil engineering at ULB
-- 🕹️ Learning ```["rust", "git", "maths", "python"]``` online
-<!--- - 💞️ I’m looking to make an interactive math, physics learning platform --->
-- 📫 How to reach me : school_email = "damian.hubert@ulb.be"
+<h1>Welcome !</h1>
+> most recent work : https://gantover.github.io/hydrogen/
 
-<!---
-gantover/gantover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Bio</h2>
+- 📚 Currently studying civil engineering at ULB
+- 📫 How to reach me : school_email = "damian.hubert@ulb.be"
+Topics of interest :
+- Quantum Physics
+- Computer Graphics
+- Web Frameworks (leptos, yew, svelte)
+- Advanced programming languages : (rust, ocaml, zig)
+Projects :
+- Physics engine
+<!--- - 💞️ I’m looking to make an interactive math, physics learning platform --->
+
