@@ -6,7 +6,7 @@
 
 <ul>
   <li>📚 Currently studying civil engineering at ULB</li>
-  <li>- 📫 How to reach me : school_email = "damian.hubert@ulb.be"</li>
+  <li>📫 How to reach me : school_email = "damian.hubert@ulb.be"</li>
 </ul>
 
 <h2>Topics of interest :</h2>
