@@ -4,13 +4,21 @@
 
 <h2>Bio</h2>
 
-- 📚 Currently studying civil engineering at ULB
-- 📫 How to reach me : school_email = "damian.hubert@ulb.be"
-Topics of interest :
-- Quantum Physics
-- Computer Graphics
-- Web Frameworks (leptos, yew, svelte)
-- Advanced programming languages : (rust, ocaml, zig)
-Projects :
-- Physics engine
+<ul>
+  <li>📚 Currently studying civil engineering at ULB</li>
+  <li>- 📫 How to reach me : school_email = "damian.hubert@ulb.be"</li>
+</ul>
+
+<h2>Topics of interest :</h2>
+<ul>
+  <li>Quantum Physics</li>
+  <li>Computer Graphics</li>
+  <li>Web Frameworks (leptos, yew, svelte)</li>
+  <li>Advanced programming languages : (rust, ocaml, zig)</li>
+</ul>
+
+<h2>Projects :</h2>
+<ul>
+  <li>Physics engine</li>  
+</ul>
 <!--- - 💞️ I’m looking to make an interactive math, physics learning platform --->
