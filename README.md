@@ -13,12 +13,23 @@
 <ul>
   <li>Quantum Physics</li>
   <li>Computer Graphics</li>
-  <li>Web Frameworks (leptos, yew, svelte)</li>
-  <li>Advanced programming languages : (rust, ocaml, zig)</li>
+  <li>Programming languages : (c, c++, rust, ocaml, zig)</li>
+  <li>Web Frameworks : (leptos, yew, svelte)</li>
 </ul>
 
-<h2>Projects :</h2>
+<h2>Projects</h2>
+
 <ul>
-  <li>Physics engine</li>  
+  <li>Physics engine</li>
+  <ol>
+    <li>3D engine from scratch in C</li>
+  </ol>
 </ul>
+
+<h2>Currently Learning</h2>
+
+<ul>
+  <li>Computer memomry and data structures with C</li>
+</ul>
+
 <!--- - 💞️ I’m looking to make an interactive math, physics learning platform --->
