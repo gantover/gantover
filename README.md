@@ -1,6 +1,6 @@
-<h1>Welcome :) ⚙️</h1>
+<h1>Welcome 😁⚙️</h1>
 
-<h2>Recent projects</h2>
+<h2>Recent projects 📅</h2>
 
 <h3>Isosurfaces calculation and visualization of the hydrogen wave function in a web interface</h3>
 Try a preset! https://gantover.github.io/hydrogen/ :)
@@ -13,7 +13,7 @@ Source : https://github.com/gantover/hydrogen
   <li>HTML, CSS</li>
 </ul>
 
-<h3>Telecommunications : Wifi Ray Tracing</h3>
+<h3>Telecommunications : Wifi Ray Tracing 🛜</h3>
 Source : https://github.com/gantover/wifi_ray_tracing
 <h5>Skills learned/reinforced</h5>
 <ul>
