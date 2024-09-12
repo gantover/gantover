@@ -1,13 +1,22 @@
 <h1>Welcome !</h1>
 
-> most recent work : https://gantover.github.io/hydrogen/
+<h2>Recent projects</h2>
 
-<h2>Bio</h2>
+<h3>Isosurfaces calculation and visualization of the hydrogen wave function in a web interface</h3>
+Try a preset! https://gantover.github.io/hydrogen/ :)
+<h5>Skills learned/reinforced</h5>
 
-<ul>
-  <li>📚 Currently studying civil engineering at ULB</li>
-  <li>📫 How to reach me : school_email = "damian.hubert@ulb.be"</li>
-</ul>
+<h3>Telecommunications : Wifi Ray Tracing</h3>
+<h5>Skills learned/reinforced</h5>
+
+<h3>Numerical Analysis : 2D Pierced Plate</h3>
+https://github.com/gantover/2d_pierced_plate
+<h5>Skills learned/reinforced</h5>
+- C programming
+- Complex C linear algebra librairies installation and usage
+- Bash scripts (for automating the installation of program and depedencies)
+
+
 
 <h2>Topics of interest :</h2>
 <ul>
