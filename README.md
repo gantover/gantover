@@ -25,11 +25,11 @@ Source : https://github.com/gantover/wifi_ray_tracing
 <h3>Numerical Analysis : 2D Pierced Plate</h3>
 Source : https://github.com/gantover/2d_pierced_plate
 <h5>Skills learned/reinforced</h5> -->
-<ul>
+<!-- <ul>
   <li>C programming</li>
   <li>Complex C linear algebra librairies installation and usage</li>
   <li>Bash scripts (for automating the installation of program and depedencies</li>
   <li>Basic optimizations (mainly data locality)</li>
   <li>Plotting in real time by sending data to gnuplot via a pipe</li>
   <li>Using valgrind to audit memory and prevent bugs</li>
-</ul>
+</ul> -->
