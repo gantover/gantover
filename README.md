@@ -1,12 +1,6 @@
-<h1>Welcome 😁⚙️</h1>
+<a href="https://rxresu.me/gantoverpro/main">Link to my CV</a>
 
-<h2>Currently working on</h2>
-
-https://tvblender.com
-
-> A website to make finding movies easier and platform independent, try it out it's free :)
-
-<h2>Previous projects</h2>
+<!-- <h2>Previous projects</h2>
 
 <h3>Isosurfaces calculation and visualization of the hydrogen wave function in a web interface</h3>
 Try a preset! https://gantover.github.io/hydrogen/ :)
@@ -30,7 +24,7 @@ Source : https://github.com/gantover/wifi_ray_tracing
 
 <h3>Numerical Analysis : 2D Pierced Plate</h3>
 Source : https://github.com/gantover/2d_pierced_plate
-<h5>Skills learned/reinforced</h5>
+<h5>Skills learned/reinforced</h5> -->
 <ul>
   <li>C programming</li>
   <li>Complex C linear algebra librairies installation and usage</li>
