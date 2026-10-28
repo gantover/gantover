@@ -1,4 +1,9 @@
-<a href="https://rxresu.me/gantoverpro/main">Link to my CV</a>
+<ul>
+  <a href="https://rxresu.me/gantoverpro/main">My Resume</a>
+  <a href="https://gantover.com">My Blog (WIP)</a>
+</ul>
+
+
 
 <!-- <h2>Previous projects</h2>
 
