@@ -1,6 +1,6 @@
 <ul>
-  <a href="https://rxresu.me/gantoverpro/main">My Resume</a>
-  <a href="https://gantover.com">My Blog (WIP)</a>
+  <li><a href="https://rxresu.me/gantoverpro/main">My Resume</a></li>
+  <li><a href="https://gantover.com">My Blog (WIP)</a></li>
 </ul>
 
 
